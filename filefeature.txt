@@ -1,1 +1,2 @@
 This is an edit in feature branch file
+This is commit 2
